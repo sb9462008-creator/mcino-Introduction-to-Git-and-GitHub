@@ -2,6 +2,8 @@
 
 ## Simple Interest Calculator
 
+Project name: Simple Interest Calculator.
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
